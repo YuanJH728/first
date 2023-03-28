@@ -1,0 +1,3 @@
+用Jupyer打开Untitled.ipynb文件，同时把数据文件github_dataset.csv和movies_dataset.csv放在和Untitled.ipynb相同目录下即可
+
+
